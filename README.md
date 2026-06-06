@@ -28,3 +28,15 @@ This project demonstrates how to create a dynamic character counter using JavaSc
 * Real-Time Updates
 * JavaScript Fundamentals
 * User Interface Enhancement
+
+## Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   https://povijayraj.github.io/Simple-textarea-with-javascript-project/
+   ```
+
+2. Open the project folder.
+
+3. Run `index.html` in your browser.
